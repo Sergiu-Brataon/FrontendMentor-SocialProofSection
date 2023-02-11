@@ -2,6 +2,8 @@
 
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
 
+## This is my attempt at the frontend mentor social proof section challenge
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
