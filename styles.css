@@ -6,3 +6,54 @@
     padding: 0;
     margin: 0;
 }
+
+section {
+    width: 100%;
+    max-width: 1200px;
+    margin: 100px auto;
+}
+
+.top-content {
+    display: flex;
+    width: 100%;
+}
+
+.topleft-content {
+    width: 35%;
+}
+
+h1 {
+    color: hsl(300, 43%, 22%);
+    width: 80%;
+    font-size: 50px;
+}
+
+p {
+    color: hsl(303, 10%, 53%);
+    font-size: 15;
+    line-height: 1.1em;
+    width: 90%;
+    margin-top: 32px;
+}
+
+.topright-content {
+    width: 65%;
+}
+
+.rating {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid hsl(303, 10%, 53%);
+    background-color: hsl(303, 10%, 53%);
+    margin-left: 300px;
+}
+
+.rating-text {
+    color: hsl(300, 43%, 22%);
+    
+}
+
+.star {
+    width: 20%;
+}
